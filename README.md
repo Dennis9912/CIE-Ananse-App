@@ -5,7 +5,8 @@
 ## AWS Architecture
 
 ## Terraform Modules
-
+    VPC
+    
 ## Prerequisites
 
 ## Deployment Process
