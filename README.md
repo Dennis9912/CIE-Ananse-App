@@ -1,4 +1,4 @@
-# CIE Terraform AWS Infrastructure
+# CIE Ananse Terraform AWS Infrastructure
 
 ## Project Overview
 
