@@ -7,6 +7,7 @@
 ## Terraform Modules
     VPC
     
+    ALB
 ## Prerequisites
 
 ## Deployment Process
